@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning software engineering, ML and Data Science 
 - 📫 How to reach me ciphedc@gmail.com/ ephesianslewis@gmail.com
 - 👻 Nerd-y 🤔 Introverted extrovert
+- 🤔 souft spouken
 
 
 ## 🌐 Socials:

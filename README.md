@@ -1,5 +1,5 @@
 # 💫Hi, 👋I’m Ephesians Lewis @Cipher
-  I’m interested in Machine Learning, Artificial Intelligence and Software Development. I am an ALX SE Graduate with Backend Specialisation Certificate and a Hackerank Python Certificate holder with badges in Java and JS. I am Passionate in creating and solving real world problems using skills gained in school, online and all the platforms exposed to me. Eager to learn from others and to collaborate in building projects that help in our society.
+  I’m interested in Machine Learning, Artificial Intelligence and Software Development. I am an ALX SE Graduate with Backend Specialisation Certificate and a Hackerank Python Certificate holder with badges in Java and JS. Currently working at Computer Engineering Forum as a backend software engineer. Passionate in creating and solving real world problems using skills gained in school, online and all the platforms exposed to me. Available to learn from others, participate in challenges and to collaborate in building projects that help in our society.
 
 
 - 🌱 I’m currently learning software engineering, ML and Data Science

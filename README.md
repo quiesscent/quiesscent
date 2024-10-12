@@ -7,10 +7,9 @@
 - 👻 Nerd-y 🤔 Introverted extrovert
 - 🤔 souft spouken
 
-<div align="center">
-  <img height="200" src="https://gifdb.com/images/high/coding-penguin-i-like-pressing-buttons-puv3coc5z4pkth51.gif"  />
+<div align="center" style="background: white;">
+  <img height="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif"  />
 </div>
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ephesianslewis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ephesianslewis) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ephesianslewis) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_cooder) 

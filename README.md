@@ -7,6 +7,9 @@
 - 👻 Nerd-y 🤔 Introverted extrovert
 - 🤔 souft spouken
 
+<div align="center">
+  <img height="200" src="https://gifdb.com/images/high/coding-penguin-i-like-pressing-buttons-puv3coc5z4pkth51.gif"  />
+</div>
 
 
 ## 🌐 Socials:
@@ -111,5 +114,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=quiesscent&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+###

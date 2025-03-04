@@ -1,3 +1,4 @@
+<!--
 <img src="lewis.png" alt="Responsive" style="max-width: 100%; height: auto;">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=quiesscent&theme=jolly&hide_border=false)
